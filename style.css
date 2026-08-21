@@ -1,6 +1,9 @@
 * {
     background-color: antiquewhite;
     margin: 150px auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    /* outline: black solid 1px; */
 }
 
 .quote {
@@ -18,4 +21,24 @@
     font-family: 'Helvetica', sans-serif;
     font-weight: 1000;
     color: red;
+}
+
+p {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+span {
+    color: black;
+    /* font-family: cursive; */
+}
+
+.steve {
+    display: inline;
+    margin: 0 auto;
+    width: 400px;
+    height: auto;
+    position: relative;
+    bottom: 150px;
+    left: 1200px;
 }
