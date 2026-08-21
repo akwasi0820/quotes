@@ -38,7 +38,7 @@ span {
     margin: 0 auto;
     width: 400px;
     height: auto;
-    position: relative;
-    bottom: 150px;
+    position: fixed;
+    bottom: -110px;
     left: 1400px;
 }
